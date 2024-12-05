@@ -2,5 +2,6 @@ pandas==2.1.4
 numpy>=1.26.0,<1.26.5
 matplotlib==3.8.0
 seaborn==0.13.0
+buble==6.0
 streamlit==1.30.0
 setuptools==68.0.0
